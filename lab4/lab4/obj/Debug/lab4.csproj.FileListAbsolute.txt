@@ -1,0 +1,15 @@
+C:\Users\mrsiv\source\repos\lab4\lab4\bin\Debug\lab4.exe.config
+C:\Users\mrsiv\source\repos\lab4\lab4\bin\Debug\lab4.exe
+C:\Users\mrsiv\source\repos\lab4\lab4\bin\Debug\lab4.pdb
+C:\Users\mrsiv\source\repos\lab4\lab4\obj\Debug\lab4.csproj.AssemblyReference.cache
+C:\Users\mrsiv\source\repos\lab4\lab4\obj\Debug\lab4.Properties.Resources.resources
+C:\Users\mrsiv\source\repos\lab4\lab4\obj\Debug\lab4.csproj.GenerateResource.cache
+C:\Users\mrsiv\source\repos\lab4\lab4\obj\Debug\lab4.csproj.CoreCompileInputs.cache
+C:\Users\mrsiv\source\repos\lab4\lab4\obj\Debug\lab4.exe
+C:\Users\mrsiv\source\repos\lab4\lab4\obj\Debug\lab4.pdb
+C:\Users\леонгиж\Documents\Комп.г\lab4\lab4\obj\Debug\lab4.csproj.AssemblyReference.cache
+C:\Users\леонгиж\Documents\Комп.г\lab4\lab4\obj\Debug\lab4.Properties.Resources.resources
+C:\Users\леонгиж\Documents\Комп.г\lab4\lab4\obj\Debug\lab4.csproj.GenerateResource.cache
+C:\Users\леонгиж\Documents\Комп.г\lab4\lab4\obj\Debug\lab4.csproj.CoreCompileInputs.cache
+C:\Users\леонгиж\Documents\Комп.г\lab4\lab4\obj\Debug\lab4.exe
+C:\Users\леонгиж\Documents\Комп.г\lab4\lab4\obj\Debug\lab4.pdb
